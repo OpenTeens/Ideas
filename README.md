@@ -37,7 +37,7 @@ Additional Notes: [Any other information you want to share?]
 
 ## Code of Conduct
 
-At OpenTeens, we're not just building projects; we're building a community. Respect, kindness, and inclusivity are the cornerstones of our interactions. Before participating, please take a moment to review our [Code of Conduct](https://github.com/OpenTeens/Ideas/blob/main/CodeOfConduct.md). Let's create a welcoming and positive environment for all!
+At OpenTeens, we're not just building projects; we're building a community. Respect, kindness, and inclusivity are the cornerstones of our interactions. Before participating, please take a moment to review our [Code of Conduct](https://github.com/OpenTeens/Ideas/blob/main/CODE_OF_CONDUCT.md). Let's create a welcoming and positive environment for all!
 
 ## Get Involved
 
